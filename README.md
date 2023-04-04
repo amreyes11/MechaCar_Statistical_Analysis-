@@ -86,21 +86,20 @@ Part 4:  Study Design: MechaCar vs Competition
 
 What metric or metrics are you going to test?
 
- * Current Price (Selling): Dependent Variable
+ * Selling Price: Dependent Variable
  
- * Resale Value: Independent Variable
+ * Drive Package : Independent Variable
  
 What is the null hypothesis or alternative hypothesis?
 
- * Null Hypothesis (Ho): MechaCar is priced correctly 
+ * Null Hypothesis (Ho): MechaCar is priced correctly based on the chosen package deal.
 
- * Alternative Hypothesis (Ha): MechaCar is NOT priced 
+ * Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on the package deal chosen.
 
 What statistical test would you use to test the hypothesis? And why?
- * A multiple linear regression because it will demonstrate the highest correlation/predictability with the list selling price (dependent variable);   which combination has the greatest impact on price (it may be all of them!)
+ * A multiple linear regression will be a good fit as it will portray the highest correlation in regards to the selling price (dependent variable) and the package deal 
+  chosen.
 
-What data is needed to run the statistical test?
- *
 
 
 
